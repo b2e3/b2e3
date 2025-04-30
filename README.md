@@ -1,7 +1,6 @@
-## Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=docker,activitypub,github,matlab,rails,elasticsearch,prometheus,firebase,postgres,r,nginx,gcp,php,py,adroidstudio,nextjs,pytorch,nodejs,linux,terraform,spring,mastodon,mongodb,perl,tensorflow,electron,atom,selenium,elixir,gitlab,aws,swift,laravel,azure,bash,maven,sentry,kubernetes,c,go,wordpress,gradle,cpp,vue,cassandra,kafka,mysql,d3,js,grafana,cs,java,vscode,rust,html,redis,css,ts,react,wasm)](https://skillicons.dev)
 
 <!--
-**b2e3/b2e3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
